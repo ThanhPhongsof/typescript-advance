@@ -1,0 +1,10 @@
+.list-container {
+  flex: 0 0 50%;
+}
+
+.list-item-container {
+  background-color: #fff;
+  border: 1px solid lightgray;
+  padding: 1rem;
+  border-radius: 20px;
+}
